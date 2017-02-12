@@ -2,7 +2,7 @@
 
 [LIVE DEMO](http://thenocklist.com/jmobile/)
 
-1. DOWNLOAD THE [RASTA DREAD CONTENT INTEGRATION SYSTEM V401 ZIP](https://github.com/NOCKLIST/jmobile201)
+1. DOWNLOAD THE [JASON MOBILE CONTENT INTEGRATION SYSTEM V401 ZIP](https://github.com/NOCKLIST/jmobile201)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
